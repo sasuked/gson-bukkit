@@ -1,4 +1,4 @@
-package io.github.sasuked.gsonbukkit.enums;
+package io.github.sasuked.gsonbukkit.enchantment;
 
 import com.google.gson.*;
 import org.bukkit.enchantments.Enchantment;
